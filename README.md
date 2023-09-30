@@ -21,3 +21,6 @@
 </div>
 
 
+Apaixonado por tecnologia, sempre à procura de novos desafios!!!
+
+
