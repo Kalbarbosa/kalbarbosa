@@ -18,7 +18,7 @@
 >
 <img aling="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"
 >
-</div>
+</div><br/>
 
 
 Apaixonado por tecnologia, sempre à procura de novos desafios!!!
